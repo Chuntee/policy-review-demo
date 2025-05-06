@@ -1,2 +1,5 @@
 streamlit
 openai
+streamlit_webrtc
+speechrecognition
+pydub
